@@ -1,0 +1,11 @@
+
+GET http://localhost:8080/get/key2
+
+###
+GET http://localhost:8080/get/key1
+
+###
+GET http://localhost:8080/put/key2/robin
+
+
+### java -jar app.jar --spring.config.location=file:///Users/home/config/jdbc.properties
